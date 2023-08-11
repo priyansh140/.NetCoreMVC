@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Bulky/Bulky.DataAccess/obj
+/Bulky/.vs
+/.vs
+/Bulky/Bulky.DataAccess/bin/Debug/net8.0
+/Bulky/Bulky.Models/obj
+/Bulky/Bulky.Utility/bin/Debug/net8.0
+/Bulky/Bulky.Models/bin/Debug/net8.0
+/Bulky/Bulky.Utility/obj/Debug/net8.0
+/Bulky/Bulky.Utility/obj/Release/net8.0
+/Bulky/Bulky.Utility/obj
+/Bulky/BulkyWeb/.vs/BulkyWeb - Copy
+/Bulky/BulkyWeb/bin/Debug/net8.0
+/Bulky/BulkyWeb/obj
