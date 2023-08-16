@@ -55,11 +55,11 @@
                     <span asp-validatide-for="Product.Price100" class="text-danger"></span>
                 </div>
 
-                <div class=" form-floating mb-3 row p-1">
+              @*   <div class=" form-floating mb-3 row p-1">
                     <input asp-for="Product.ImageUrl" class="form-control border-0 shadow" />
                     <label asp-for="Product.ImageUrl" class="ms-2"></label>
                     <span asp-validatide-for="Product.ImageUrl" class="text-danger"></span>
-                </div>
+                </div> *@
                 
                 <div class=" form-floating mb-3 row p-1">
                     <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-control border-0 shadow">
